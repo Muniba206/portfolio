@@ -60,11 +60,13 @@ hr.break {
 .remove-top {
   padding-top: 0 !important;
   margin: 0 !important;
+  color:#33b4a8;
 }
 
 .remove-bottom {
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
+  color:#d11919;
 }
 
 .title-img {
