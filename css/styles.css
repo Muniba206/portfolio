@@ -90,7 +90,6 @@ hr.break {
 .project-img {
   border: 3px solid #7e7e7e;
   border-radius: 12px;
-  min-width: 320px;
   min-height: 200px;
   cursor: pointer;
 }
